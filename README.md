@@ -1,4 +1,4 @@
-![alt text](https://github.com/Nezu-life/Drawing_with_AI/blob/main/robot_drawing.jpg)
+![alt text](https://github.com/Nezu-life/Drawing_with_AI/blob/main/robot_drawing.jpg | width=100)
 
 # Drawing with AI
 
