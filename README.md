@@ -1,8 +1,10 @@
+![alt text](https://github.com/Nezu-life/Drawing_with_AI/blob/main/robot_drawing.jpg)
+
+# Drawing with AI
+
+Here are some elements used to create prompts for AI-based image creation tools.
+
 The marriage of prompt engineering with AI, especially with tools like DALL-E, opens up endless creative possibilities. 
-
-It's a unique blend of technology and artistry, where your words become the brush and palette to paint vivid, imaginative visuals. 
-
-This process is a groundbreaking way to bring your most intricate visions to life, transcending traditional boundaries of art. 
 
 Whether it's rendering fantastical landscapes, conceptual art, or photorealistic scenes, the AI's interpretation of your prompts can surprise and inspire, making every creation a unique adventure. 
 
